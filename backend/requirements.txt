@@ -1,0 +1,6 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9
+Faker>=30,<40
+pandas>=2.2,<4.0
+matplotlib>=3.9,<4.0
